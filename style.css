@@ -3,18 +3,17 @@
     width: 700px;
     height: 500px;
     padding-left: 100px;
-
 }
 
-    body {
+body {
 
-        font-family: Georgia, "Times New Roman", Times, serif;
-      
-        /* Typography */
-        font-size: 18px;
-        line-height: 150%;
-        color: #333;
-      
-        /* Visual */
-        background: #efeee7;
-      }
+    font-family: Georgia, "Times New Roman", Times, serif;
+
+    /* Typography */
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+
+    /* Visual */
+    background: #efeee7;
+}
