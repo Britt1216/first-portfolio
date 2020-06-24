@@ -3,4 +3,17 @@
     width: 600px;
     height: 400px;
 
-    background: #333;
+}
+
+    body {
+
+        font-family: Georgia, "Times New Roman", Times, serif;
+      
+        /* Typography */
+        font-size: 18px;
+        line-height: 150%;
+        color: #333;
+      
+        /* Visual */
+        background: #efeee7;
+      }
