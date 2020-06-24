@@ -1,7 +1,8 @@
 #bio-image {
     /* Box-model */
-    width: 600px;
-    height: 400px;
+    width: 700px;
+    height: 500px;
+    padding-left: 100px;
 
 }
 
