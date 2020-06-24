@@ -1,0 +1,6 @@
+#bio-image {
+    /* Box-model */
+    width: 600px;
+    height: 400px;
+
+    background: #333;
